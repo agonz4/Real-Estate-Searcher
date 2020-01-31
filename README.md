@@ -3,7 +3,9 @@
 -----------------------------------------------------------------------
 
 PROJECT TITLE: Real Estate Searcher
+
 AUTHOR: Anthony Gonzalez
+
 VERSION or DATE: 11/25/19
 
 PURPOSE OF PROJECT:	This project was created to make the process of finding houses easier. By implementing file searching and the use of a GUI powered by JAVAFX.		
